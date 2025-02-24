@@ -11,7 +11,11 @@ Write a C program that prompts the user to enter a string and then prints each c
 ## Example Output
 For an input string `hello`, the output should be:
 
-h e l l o
+h 
+e 
+l 
+l 
+o
 
 ## Submission Guidelines
 - Name your C source file as `print_chars_newline.c`.
